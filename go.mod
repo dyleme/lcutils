@@ -1,3 +1,3 @@
-module github.com/Dyleme/lcutils
+module github.com/dyleme/lcutils
 
-go 1.22.3
+go 1.24.3
